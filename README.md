@@ -110,3 +110,5 @@ Delete a report using its unique ID.
 ```bash
 git clone https://github.com/your-username/campus-board-dapp.git
 cd campus-board-dapp
+
+ID smart contract : CBOGGK6DIAUHZ3IHLVKIIC5JMUJGFZZOADQJBLA2WZMAZUJUEERLFSRX
